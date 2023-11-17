@@ -1,0 +1,42 @@
+
+      .get-started-button {
+        background-color: rgb(121, 82, 179);
+        color: white;
+        font-weight: bold;
+        border: none;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 20px;
+        padding-right: 20px;
+      
+        margin-right: 6px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.15s;
+      }
+
+      .get-started-button:hover {
+        background-color: rgb(99, 66, 154);
+      }
+
+      .Download-button {
+        background-color: white;
+        color: rgb(108, 117, 125);
+        border-width: 1px;
+        border-style: solid;
+        border-color: rgb(108, 117, 125);
+        font-weight: bold;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 17px;
+        padding-right: 17px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.15s, color 0.15s;
+      }
+
+      .Download-button:hover {
+        background-color: rgb(108, 117, 125);
+        color: white;
+      }
+  
