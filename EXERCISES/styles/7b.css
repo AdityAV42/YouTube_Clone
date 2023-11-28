@@ -1,0 +1,8 @@
+.cat-picture
+{
+    width: 200px;
+    height: 200px;  /*since it's a square so put same height and width*/
+    
+    object-fit: cover;
+    object-position: center;
+}
